@@ -37,13 +37,13 @@ body {
 .main-item ol li {
     padding-bottom: 15px;
     padding-top: 10px;
-    color: white;
+    color: rgb(66, 3, 109);
 }
 .main p {
     text-align: right;
     padding-top: 20px;
     padding-right: 5%;
-    color: white;
+    color: rgb(10, 7, 204);
 }
 .main img {
     width: 250px;
